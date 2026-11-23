@@ -41,11 +41,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
 </p>
 
-## 🎾 Off Duty
 
-When I'm not in the Batcave, I'm on the court. Tennis keeps my mind sharp and my reflexes sharper.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnimeshM21&color=FFD700&style=for-the-badge&label=SIGNALS+SENT&labelColor=000000" />
